@@ -1,6 +1,6 @@
-## Your Name
+## Haydn Stokes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Currently undertaking a software development bootcamp with one of the best learning providers in the world, so far ive had a short but award winning marketing and pr career with project management experience. my love for tech stems deep, from gaming my whole life to building computers and the ever changing tech landscape that keeps me hooked, software development was a natural progression for me and im excited for what the furture holds.
 
 ## Projects
 
@@ -74,4 +74,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
+- Ive played Golf my whole life, although not so frequent as when i was a junior this gives me the escape and fresh air i need to clear my mind and reset
+- In preparation for the my career change into software development i built my own PC with zero pre knowledge what i was doing, a real learning curve for me and now i wont ever buy a pre-buily system again.
 Any cool stuff that makes you a super part of a software development team
