@@ -64,9 +64,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Southampton Solent University, Marketing and Advertising with Management - bachelor's degree
+- First class Honours
+- Makers Academy Bootcamp Graduate
 
 #### Any other qualifications
 
@@ -74,6 +74,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-- Ive played Golf my whole life, although not so frequent as when i was a junior this gives me the escape and fresh air i need to clear my mind and reset
-- In preparation for the my career change into software development i built my own PC with zero pre knowledge what i was doing, a real learning curve for me and now i wont ever buy a pre-buily system again.
-Any cool stuff that makes you a super part of a software development team
+- I have played Golf my whole life, this gives me the escape and fresh air i need to clear my mind and reset in order to focus on other aspects of my life.
+- In preparation for my career change into software development i built my own PC with zero pre knowledge  of what i was about to undertake, a real learning curve for me and somthing that i am extremly proud of, this enabled me to learn how a computer worked for the ground up and has lead to me being able to fix technical issues when they arrise.
