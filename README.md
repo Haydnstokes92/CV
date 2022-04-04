@@ -1,6 +1,9 @@
 ## Haydn Stokes
 
-Currently undertaking a software development bootcamp with one of the best learning providers in the world, so far ive had a short but award winning marketing and pr career with project management experience. my love for tech stems deep, from gaming my whole life to building computers and the ever changing tech landscape that keeps me hooked, software development was a natural progression for me and im excited for what the furture holds.
+Recently re-trained as a software developer at Makers Academy, currently an entry-level developer and Makers graduate, ex project manager(Construction) with a marketing background. Being a strong Tech enthusiast, I am activity seeking opportunities to kickstart my career as a developer and contribute to professional engineering teams.
+
+Specialities:
+Software Design & Development / ) / Ruby, Python, JavaScript & React / SQL & NoSQL / HTML & CSS / Ruby on Rails / Test Driven Development (TDD).
 
 ## Projects
 
