@@ -2,78 +2,70 @@
 
 Recently re-trained as a software developer at Makers Academy, currently an entry-level developer and Makers graduate, ex project manager(Construction) with a marketing background. Being a strong Tech enthusiast, I am activity seeking opportunities to kickstart my career as a developer and contribute to professional engineering teams.
 
-Specialities:
+## Skills
+
 Software Design & Development / ) / Ruby, Python, JavaScript & React / SQL & NoSQL / HTML & CSS / Ruby on Rails / Test Driven Development (TDD).
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            | Web based game    |  Python/Pygame    |
+|                              | built in Python on|                   |
+|                              | Pygame            |                   |
+| **Something else worked on** | Acebook project   |                   |
+|                              | built in Ruby on  |                   |
+|                              | rails and React.  | Ruby on rails and |
+|                              |                   | React             |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+Work Experience at EdgePetrol (March 2022 — April 2022)  
 
 
-#### This Skill
+After graduating from the Makers Academy I independently sourced a work placement
+at Edge petrol, this involved me shadowing numerous developers throughout their
+software development department. During my time I was exposed to real world
+situations including standup's, agile work flows using Jira, different API's, SQL, SaaS, data
+warehouses and 3rd line support including TDD. I gained a wealth of experience during
+my time with Edge and obtained some invaluable experience that I can look to as I take
+my next step in my Software Development career.
 
-- Experience
-- Achievements
-- Evidence (STAR)
+-------
 
-#### Another Skill
+Project Manager at KONFORM UK Limited (September 2019 — August 2021)  
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+Becoming a project manager was part of my tech journey, taking on this role enabled
+me to save the require financial funds in order to retrain into something i was really
+passionate about. However, I also learn't a wealth of people skills, often working under
+pressure to deadlines. I was also tasked with ensuring projects were kept to a timescale
+and materials were ordered which demonstrates time management and prioritisation
+skills.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+-------
+
+Account Executive at Grayling (April 2017 — August 2019)
+
+During my time at Grayling i was responsible for handling social media accounts for
+clients, often using Facebook paid ads and writing content. This role also gave me a first
+look at software development which inspired me to take this path in my career.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (November 2021 — March 2022)
+Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the
+fundamentals of software engineering with Ruby & JavaScript. During my time at Makers,
+I learn't: - Principles of object-oriented design and test-driven development - How to
+write clean, reliable, and maintainable code - Pair-programming in the driver-navigator
+style - How to work in an agile development team with XP values. - Collaboration on
+GitHub creating projects with continuous integration and automated deployment. And
+used: Web Languages & Frameworks: Ruby, Rails, JavaScript, jQuery, CSS, HTML Game
+Development Tools: Pygame Testing: RSpec, Sinatra, Capybara.
 
-#### Your University / College (start_date to end_date)
+#### Southampton Solent University (start_date to end_date)
 
 - Southampton Solent University, Marketing and Advertising with Management - bachelor's degree
 - First class Honours
-- Makers Academy Bootcamp Graduate
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
